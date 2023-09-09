@@ -1,0 +1,18 @@
+{
+  "name": "pilates-art-pa23",
+  "description": "Pilates Art 2023",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JavierVelazquez/pa23.git"
+  },
+  "homepage": "https://www.pilatesart.eu/",
+  "author": "Javier Velazquez",
+  "version": "1.0.0",
+  "license": "GPL-2.0-or-later",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-uglify": "^4.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-contrib-imagemin": "^2.0.1"
+  }
+}
